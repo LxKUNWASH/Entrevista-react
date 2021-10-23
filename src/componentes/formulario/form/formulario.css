@@ -1,0 +1,14 @@
+.error{
+height:20px;
+line-height: 20px;
+background:#f66060;
+margin-top: 5px;
+padding: 0px 15px;
+border-radius:3px;
+}
+
+.bord{
+    border-top: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+}

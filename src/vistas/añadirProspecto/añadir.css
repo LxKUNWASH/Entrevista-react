@@ -1,0 +1,15 @@
+.centrar{
+  text-align: center;
+}
+
+ .borde{
+  background-color: #e5e5e5;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  border-color: "#0075FF";
+ }
+
+ .margen{
+margin-top: 20px;
+ }
